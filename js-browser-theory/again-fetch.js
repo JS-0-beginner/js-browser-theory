@@ -19,6 +19,6 @@ fetch('https://jsonplaceholder.typicode.com/todos/1')
 
 console.log('Fourth     __________________',4);
 
-for (let index = 0; index < 100; index++) {
+for (let index = 0; index < 10; index++) {
     console.log(index);
 }

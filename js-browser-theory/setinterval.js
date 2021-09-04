@@ -31,6 +31,7 @@ setInterval( () =>
 //Stop Interval
 let seconds = 0;
 
+//declare the function in a variable
 const counter = setInterval( () =>
 {
     // seconds++;

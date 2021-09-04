@@ -20,6 +20,7 @@ setTimeout(function()
 5000 //time 5ms x 1000 = 5s
 );
 
+//Arrow Function
 setTimeout( () =>
 {
     console.log('Arrow Function');
